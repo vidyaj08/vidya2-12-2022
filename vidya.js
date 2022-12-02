@@ -1,0 +1,1 @@
+var vidya='good morning'
